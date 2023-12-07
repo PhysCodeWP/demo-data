@@ -1,0 +1,24 @@
+{
+  "name": "Phys Core",
+  "slug": "phys-core",
+  "version": "2.0.0",
+  "author": "https://physcode.com",
+  "author_profile": "https://physcode.com",
+  "requires": "4.8",
+  "tested": "6.x.x",
+  "compatibility": {},
+  "rating": 0,
+  "num_ratings": 0,
+  "ratings": {},
+  "downloaded": 0,
+  "last_updated": "",
+  "added": "",
+  "homepage": "https://physcode.com",
+  "sections": {
+    "description": "@todo"
+  },
+  "short_description": "The Ultimate Core Processor of all WordPress themes by PhysCode.",
+  "download_link": "https://updates.physcode.com/thim-envato-market/download-plugin/?plugin=phys-core.zip",
+  "tags": {},
+  "donate_link": ""
+}
