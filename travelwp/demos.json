@@ -26,5 +26,12 @@
     "default_content": false,
     "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/travelwp\/images\/home-4.png",
     "category": ""
+  },
+  "demo-el\/home-5": {
+    "title": "Home 5",
+    "demo_url": "https:\/\/travelwp.physcode.com\/main-demo",
+    "default_content": false,
+    "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/travelwp\/images\/home-5.png",
+    "category": ""
   }
 }
