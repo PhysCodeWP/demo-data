@@ -4,7 +4,8 @@
     "demo_url": "https:\/\/travelwp.physcode.com\/main-demo",
     "default_content": false,
     "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/travelwp\/images\/home-5.png",
-    "category": ""
+    "category": "",
+    "label":"new"
   },
   "demo-vc\/home-1": {
     "title": "Home 1 - Video Slider",
