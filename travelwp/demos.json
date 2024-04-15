@@ -1,4 +1,11 @@
 {
+  "demo-el\/home-5": {
+    "title": "Demo Main",
+    "demo_url": "https:\/\/travelwp.physcode.com\/main-demo",
+    "default_content": false,
+    "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/travelwp\/images\/home-5.png",
+    "category": ""
+  },
   "demo-vc\/home-1": {
     "title": "Home 1 - Video Slider",
     "demo_url": "https:\/\/travelwp.physcode.com\/",
@@ -25,13 +32,6 @@
     "demo_url": "https:\/\/travelwp.physcode.com\/home-4\/",
     "default_content": false,
     "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/travelwp\/images\/home-4.png",
-    "category": ""
-  },
-  "demo-el\/home-5": {
-    "title": "Home 5",
-    "demo_url": "https:\/\/travelwp.physcode.com\/main-demo",
-    "default_content": false,
-    "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/travelwp\/images\/home-5.png",
     "category": ""
   }
 }
