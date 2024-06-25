@@ -9,7 +9,7 @@
     },
     "demo-el\/home-1": {
       "title": "Home 01",
-      "demo_url": "https:\/\/hotelqueen.physcode.com\/main-demo",
+      "demo_url": "https:\/\/hotelqueen.physcode.com\/demo-elementor",
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/hotel-queen\/images\/home-1.jpg",
       "category": "Elementor",
@@ -17,7 +17,7 @@
     },
     "demo-el\/home-2": {
       "title": "Home 02",
-      "demo_url": "https:\/\/hotelqueen.physcode.com\/main-demo",
+      "demo_url": "https:\/\/hotelqueen.physcode.com\/demo-elementor-02",
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/hotel-queen\/images\/home-2.jpg",
       "category": "Elementor",
@@ -25,7 +25,7 @@
     },
     "demo-el\/home-3": {
       "title": "Home 03",
-      "demo_url": "https:\/\/hotelqueen.physcode.com\/main-demo",
+      "demo_url": "https:\/\/hotelqueen.physcode.com\/demo-elementor-03",
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/hotel-queen\/images\/home-3.jpg",
       "category": "Elementor",
@@ -33,7 +33,7 @@
     },
     "demo-el\/home-4": {
       "title": "Home 04",
-      "demo_url": "https:\/\/hotelqueen.physcode.com\/main-demo",
+      "demo_url": "https:\/\/hotelqueen.physcode.com\/demo-elementor-04",
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/hotel-queen\/images\/home-4.jpg",
       "category": "Elementor",
@@ -41,7 +41,7 @@
     },
     "demo-vc\/home-1": {
       "title": "Home 1",
-      "demo_url": "https:\/\/hotelqueen.physcode.com\/home-video",
+      "demo_url": "https:\/\/hotelqueen.physcode.com\/",
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/hotel-queen\/images\/home-1.jpg",
       "category": "WP BAKERY"
