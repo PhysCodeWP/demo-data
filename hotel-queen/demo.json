@@ -4,7 +4,7 @@
       "demo_url": "https:\/\/hotelqueen.physcode.com\/main-demo",
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/hotel-queen\/images\/home-5.jpg",
-      "category": "",
+      "category": "Elementor",
       "label":"New"
     },
     "demo-el\/home-1": {
@@ -20,7 +20,7 @@
       "demo_url": "https:\/\/hotelqueen.physcode.com\/main-demo",
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/hotel-queen\/images\/home-2.jpg",
-      "category": "",
+      "category": "Elementor",
       "label":"New"
     },
     "demo-el\/home-3": {
@@ -28,7 +28,7 @@
       "demo_url": "https:\/\/hotelqueen.physcode.com\/main-demo",
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/hotel-queen\/images\/home-3.jpg",
-      "category": "",
+      "category": "Elementor",
       "label":"New"
     },
     "demo-el\/home-4": {
@@ -36,7 +36,7 @@
       "demo_url": "https:\/\/hotelqueen.physcode.com\/main-demo",
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/hotel-queen\/images\/home-4.jpg",
-      "category": "",
+      "category": "Elementor",
       "label":"New"
     },
     "demo-vc\/home-1": {
@@ -44,28 +44,28 @@
       "demo_url": "https:\/\/hotelqueen.physcode.com\/home-video",
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/hotel-queen\/images\/home-1.jpg",
-      "category": ""
+      "category": "WP BAKERY"
     },
     "demo-vc\/home-2": {
       "title": "Home 2",
       "demo_url": "https:\/\/hotelqueen.physcode.com\/home-2\/",
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/hotel-queen\/images\/home-2.jpg",
-      "category": ""
+      "category": "WP BAKERY"
     },
     "demo-vc\/home-3": {
       "title": "Home 3",
       "demo_url": "https:\/\/hotelqueen.physcode.com\/home-3\/",
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/hotel-queen\/images\/home-3.jpg",
-      "category": ""
+      "category": "WP BAKERY"
     },
     "demo-vc\/home-4": {
       "title": "Home 4",
       "demo_url": "https:\/\/hotelqueen.physcode.com\/home-4\/",
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/hotel-queen\/images\/home-4.jpg",
-      "category": ""
+      "category": "WP BAKERY"
     }
   }
   
