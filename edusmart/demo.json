@@ -1,0 +1,17 @@
+{
+    "demo-main": {
+      "title": "Demo Main",
+      "demo_url": "https:\/\/edusmart.physcode.com\/demo-main",
+      "default_content": false,
+      "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/edusmart\/images\/demo-main.jpg",
+      "category": ""
+    },
+    "demo-university": {
+      "title": "Demo University",
+      "demo_url": "https:\/\/edusmart.physcode.com\/demo-university",
+      "default_content": false,
+      "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/edusmart\/images\/demo-university.jpg",
+      "category": ""
+    }
+  }
+  
