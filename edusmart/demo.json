@@ -1,14 +1,14 @@
 {
     "demo-main": {
       "title": "Demo Main",
-      "demo_url": "https:\/\/edusmart.physcode.com\/demo-main",
+      "demo_url": "https:\/\/edusmart.physcode.com",
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/edusmart\/images\/demo-main.jpg",
       "category": ""
     },
     "demo-university": {
       "title": "Demo University",
-      "demo_url": "https:\/\/edusmart.physcode.com\/demo-university",
+      "demo_url": "https:\/\/edusmart.physcode.com\/university",
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/edusmart\/images\/demo-university.jpg",
       "category": ""
