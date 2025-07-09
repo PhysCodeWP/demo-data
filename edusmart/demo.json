@@ -12,6 +12,13 @@
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/edusmart\/images\/demo-university.jpg",
       "category": ""
+    },
+    "demo-clean": {
+      "title": "Demo Clean Design",
+      "demo_url": "https:\/\/edusmart.physcode.com\/home-clean",
+      "default_content": false,
+      "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/edusmart\/images\/demo-clean.jpg",
+      "category": ""
     }
   }
   
