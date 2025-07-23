@@ -19,6 +19,13 @@
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/edusmart\/images\/demo-clean.jpg",
       "category": ""
+    },
+    "demo-one-instructor": {
+      "title": "Demo One Instructor",
+      "demo_url": "https:\/\/edusmart.physcode.com\/one-instructor",
+      "default_content": false,
+      "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/edusmart\/images\/demo-one-instructor.jpg",
+      "category": ""
     }
   }
   
