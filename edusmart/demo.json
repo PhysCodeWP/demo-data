@@ -15,7 +15,7 @@
     },
     "demo-clean": {
       "title": "Demo Clean Design",
-      "demo_url": "https:\/\/edusmart.physcode.com\/home-clean-design",
+      "demo_url": "https:\/\/edusmart.physcode.com\/demo-main\/home-clean-design",
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/edusmart\/images\/demo-clean.jpg",
       "category": ""
@@ -25,6 +25,13 @@
       "demo_url": "https:\/\/edusmart.physcode.com\/one-instructor",
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/edusmart\/images\/demo-one-instructor.jpg",
+      "category": ""
+    },
+    "demo-one-course": {
+      "title": "Demo One Course",
+      "demo_url": "https:\/\/edusmart.physcode.com\/one-course",
+      "default_content": false,
+      "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/edusmart\/images\/demo-one-course.jpg",
       "category": ""
     }
   }
