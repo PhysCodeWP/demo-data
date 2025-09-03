@@ -33,6 +33,13 @@
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/edusmart\/images\/demo-one-course.jpg",
       "category": ""
+    },
+    "demo-kindergarten": {
+      "title": "Demo Kindergarten",
+      "demo_url": "https:\/\/edusmart.physcode.com\/kindergarten",
+      "default_content": false,
+      "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/edusmart\/images\/demo-kindergarten.jpg",
+      "category": ""
     }
   }
   
