@@ -40,6 +40,13 @@
       "default_content": false,
       "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/edusmart\/images\/demo-kindergarten.jpg",
       "category": ""
+    },
+    "demo-rtl": {
+      "title": "Demo RTL",
+      "demo_url": "https:\/\/edusmart.physcode.com\/demo-rtl",
+      "default_content": false,
+      "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/edusmart\/images\/demo-rtl.jpg",
+      "category": ""
     }
   }
   
