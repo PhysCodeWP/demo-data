@@ -1,46 +1,54 @@
 {
-  "demo-el\/home-5": {
-    "title": "Demo Main",
-    "demo_url": "https:\/\/travelwp.physcode.com\/main-demo",
-    "default_content": false,
-    "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/travelwp\/images\/home-5.png",
-    "category": "",
-    "label":"New"
-  },
-"demo-el\/home-6": {
-    "title": "Demo Adventure Tour",
-    "demo_url": "https:\/\/travelwp.physcode.com\/demo-adventure-tour",
-    "default_content": false,
-    "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/travelwp\/images\/home-6.jpg",
-    "category": "",
-    "label":"New"
-  },
-  "demo-vc\/home-1": {
-    "title": "Home 1 - Video Slider",
-    "demo_url": "https:\/\/travelwp.physcode.com\/home-video",
-    "default_content": false,
-    "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/travelwp\/images\/home-1.jpg",
-    "category": ""
-  },
-  "demo-vc\/home-2": {
-    "title": "Home 2 - Image Slider",
-    "demo_url": "https:\/\/travelwp.physcode.com\/home-2\/",
-    "default_content": false,
-    "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/travelwp\/images\/home-2.png",
-    "category": ""
-  },
-  "demo-vc\/home-3": {
-    "title": "Home 3 - Background Image",
-    "demo_url": "https:\/\/travelwp.physcode.com\/home-3\/",
-    "default_content": false,
-    "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/travelwp\/images\/home-3.png",
-    "category": ""
-  },
-  "demo-vc\/home-4": {
-    "title": "Home 4 - Parallax Image",
-    "demo_url": "https:\/\/travelwp.physcode.com\/home-4\/",
-    "default_content": false,
-    "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/travelwp\/images\/home-4.png",
-    "category": ""
-  }
+    "demo-el\/home-5": {
+        "title": "Demo Main",
+        "demo_url": "https:\/\/travelwp.physcode.com\/main-demo",
+        "default_content": false,
+        "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/travelwp\/images\/home-5.png",
+        "category": "",
+        "label": "New"
+    },
+    "demo-el\/home-6": {
+        "title": "Demo Adventure Tour",
+        "demo_url": "https:\/\/travelwp.physcode.com\/demo-adventure-tour",
+        "default_content": false,
+        "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/travelwp\/images\/home-6.jpg",
+        "category": "",
+        "label": "New"
+    },
+    "demo-el\/local-tours": {
+        "title": "Demo Local Tours",
+        "demo_url": "https:\/\/travelwp.physcode.com\/demo-local-tours",
+        "default_content": false,
+        "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/travelwp\/images\/local-tours.jpg",
+        "category": "",
+        "label": "New"
+    },
+    "demo-vc\/home-1": {
+        "title": "Home 1 - Video Slider",
+        "demo_url": "https:\/\/travelwp.physcode.com\/home-video",
+        "default_content": false,
+        "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/travelwp\/images\/home-1.jpg",
+        "category": ""
+    },
+    "demo-vc\/home-2": {
+        "title": "Home 2 - Image Slider",
+        "demo_url": "https:\/\/travelwp.physcode.com\/home-2\/",
+        "default_content": false,
+        "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/travelwp\/images\/home-2.png",
+        "category": ""
+    },
+    "demo-vc\/home-3": {
+        "title": "Home 3 - Background Image",
+        "demo_url": "https:\/\/travelwp.physcode.com\/home-3\/",
+        "default_content": false,
+        "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/travelwp\/images\/home-3.png",
+        "category": ""
+    },
+    "demo-vc\/home-4": {
+        "title": "Home 4 - Parallax Image",
+        "demo_url": "https:\/\/travelwp.physcode.com\/home-4\/",
+        "default_content": false,
+        "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/travelwp\/images\/home-4.png",
+        "category": ""
+    }
 }
