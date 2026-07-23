@@ -17,7 +17,7 @@
     },
     "demo-el\/local-tours": {
         "title": "Demo Local Tours",
-        "demo_url": "https:\/\/travelwp.physcode.com\/demo-local-tours",
+        "demo_url": "https:\/\/travelwp.physcode.com\/local-tours",
         "default_content": false,
         "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/travelwp\/images\/local-tours.jpg",
         "category": "",
